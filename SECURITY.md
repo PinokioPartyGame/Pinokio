@@ -6,7 +6,7 @@ Do you collect personal information from your users?
 No, we do not collect personal information from users
 
 Do you collect some other data about users?
-Yes, we collect data about purchase history.
+No, we only using data collected by google play containing payment history.
 
 Does your app send emails or newsletters to users?
 No
