@@ -1,7 +1,7 @@
 # Pinokio
 ## Privacy policy/Polityka prywatnosci
 
-26.03.2023 English
+### 26.03.2023 English
 
 Do you collect personal information from your users? 
 No, we do not collect personal information from users
@@ -42,7 +42,7 @@ Yes
 Do you want your privacy policy to be CCPA compliant? 
 Yes
 
-02.04.2003 Polski
+### 02.04.2003 Polski
 
 Czy zbierasz dane osobowe swoich użytkowników?
 Nie, nie zbieramy danych osobowych od użytkowników
